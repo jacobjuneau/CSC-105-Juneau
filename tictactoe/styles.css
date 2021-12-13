@@ -1,0 +1,71 @@
+body {background-color: blueviolet;}
+*{box-sizing: border-box;}
+#box {
+    width: 97px;
+    height: 97px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+#one {
+    width: 31px;
+    height: 31px;
+    border: 2px solid black;
+    float: left;
+}
+
+#two {
+    width: 31px;
+    height: 31px;
+    border: 2px solid black;
+    float: left;
+}
+
+#three {
+    width: 31px;
+    height: 31px;
+    border: 2px solid black;
+    float: left;
+}
+
+#four {
+    width: 31px;
+    height: 31px;
+    border: 2px solid black;
+    float: left;
+}
+
+#five {
+    width: 31px;
+    height: 31px;
+    border: 2px solid black;
+    float: left;
+}
+
+#six {
+    width: 31px;
+    height: 31px;
+    border: 2px solid black;
+    float: left;
+}
+
+#seven {
+    width: 31px;
+    height: 31px;
+    border: 2px solid black;
+    float: left;
+}
+
+#eight {
+    width: 31px;
+    height: 31px;
+    border: 2px solid black;
+    float: left;
+}
+
+#nine {
+    width: 31px;
+    height: 31px;
+    border: 2px solid black;
+    float: left;
+}
